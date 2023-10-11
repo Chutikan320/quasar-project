@@ -14,7 +14,7 @@ export default {
   name: 'InputPage',
   data() {
     return {
-      title: 'aphiched tepnanta',
+      title: 'sirinet lianchop',
       firstName: '',
       secondName: '',
     }
