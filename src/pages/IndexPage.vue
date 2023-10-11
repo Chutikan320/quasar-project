@@ -19,7 +19,7 @@ export default {
    },
   data() {
     return {
-      title: 'aphiched tepnanta',
+      title: 'sirinet lianchop',
     }
   },
 }
