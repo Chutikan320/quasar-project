@@ -18,7 +18,7 @@ export default {
   name: 'HtmlComponent',
   data() {
     return {
-      title: 'aphiched tepnanta',
+      title: 'sirinet lianchop',
       firstValue:0,
       secondValue:0,
       answerVulue:0
