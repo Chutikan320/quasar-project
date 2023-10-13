@@ -19,7 +19,7 @@ export default {
    },
   data() {
     return {
-      title: 'sirinet lianchop',
+      title: 'chutikan boonsala',
     }
   },
 }
