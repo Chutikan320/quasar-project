@@ -14,7 +14,7 @@ export default {
   name: 'InputPage',
   data() {
     return {
-      title: 'sirinet lianchop',
+      title: 'chutikan boonsala',
       firstName: '',
       secondName: '',
     }
